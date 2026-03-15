@@ -1,5 +1,3 @@
 # Olá, Mundo!
-Meu primeiro repositorio versionado de curso de git e github
-
-Repositório criado durante uma aula do curso de git-github
-Essa linha eu adicionei diretamente do github. BIZARRO!
+Mas afinal de contas, quem sou eu?
+Site desenvolvido para divulgar minhas formas de comunicação e para saber mais sobre mim.
